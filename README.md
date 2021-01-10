@@ -20,6 +20,6 @@ I'm Ronaldo Gomes, Student at Computer Science from 💻 IFCE Instituto Federal 
 ## 🧐 About
 - 🔭 I am currently an Apple Developer academy at IFCE
 - 🌱 I’m currently learning Swift and Pyhton
-- ⚡  I love to study mathematics and its applications in computing, focusing on branches of Artificial Intelligence, such as Machine Learning and Data Science.v
+- ⚡  I love to study mathematics and its applications in computing, focusing on branches of Artificial Intelligence, such as Machine Learning and Data Science
 - 💬 I love new challenges and learn new skills
 - 😄 My hobbies are reading books, observing planets, cooking, watching and playing sports, as well as playing video games
