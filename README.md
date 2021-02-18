@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Medium Ronaldo](https://img.shields.io/badge/@ronaldogomes96-black?style=flat-square&logo=Medium&logoColor=white&link=https://ronaldogomes96.medium.com)](https://ronaldogomes96.medium.com)
 [![Linkedin Ronaldo Gomes](https://img.shields.io/badge/Ronaldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ronaldo-gomes-9407b2160/)](https://www.linkedin.com/in/ronaldo-gomes-9407b2160/)
 [![Gmail Badge](https://img.shields.io/badge/-gomes.ronaldo96@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gomes.ronaldo96@gmail.com)](mailto:gomes.ronaldo96@gmail.com)
 
